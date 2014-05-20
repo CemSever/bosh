@@ -1,6 +1,6 @@
 
-
-If you're creating your own theme/client project open up all files and do a "Find and Replace All in All Files" on the word "blankslate" with your own slug/prefix.
+- - DESCRIPTION - -
+Ultra-simple bootstrapped Wordpress theme.
 
 - - THEME - -
 
